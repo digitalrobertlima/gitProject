@@ -1,5 +1,8 @@
 Respostas da Atividade - Sistemas Inteligentes I - Ex.:4
 
+Nome: Robert Macedo Lima
+Matrícula 01-93514 robert.0193514@discente.uemg.br
+
 Questão 01
 
 Um especialista é aquele que se dedica exclusivamente ao estudo ou à prática de uma ciência, uma arte, uma profissão.
@@ -8,7 +11,57 @@ Questão 02
 
 Sistema especialista é uma classe de programa de computador desenvolvido por pesquisadores de Inteligência artificial durante os anos 1970 e aplicado comercialmente durante anos 1980.
 São constituídos por uma série de regras que analisam informações sobre uma classe específica de problema.
+Sendo iclusive softwares que têm como objetivo simular o raciocínio de um profissional “expert” em alguma área de conhecimento específica.
+
+Um Sistema Especialista se divide em duas palavras, que são Sistema - "Conjunto de elementos, materiais ou ideais, entre os quais se possa encontrar ou definir alguma relação"
 
 Questão 03
 
+1ºEtapa: Seleção do Problema O primeiro passo é selecionar o "problema."
+2ºEtapa: Aquisição de Conhecimento.
+3ºEtapa: Representação do Conhecimento.
+4ºEtapa: Codificação de Conhecimento.
+5ºEtapa: Teste de Conhecimento e Avaliação.
+6ºEtapa: Implementação e Manutenção
 
+Questão 04
+
+São componentes essenciais de um sistema especialista, base do conhecimeto composta de fatos e regras. Mecanismo de inferência. Interface com o usuário.
+
+Questão 06
+
+Sistemas convencionais: Estrutura de dados, Dados e relações entre dados, Algoritmos determinísticos, Conhecimento embutido no código do programa, Explicação do raciocínio é difícil.
+SBCs: Representação do conhecimento, Conceitos, relações entre conceitos e regras, Busca heurística, Conhecimento representado explicitamente e separado do código que o manipula e interpreta, Podem e devem explicar seu racioncínio.
+
+Questão 07
+
+Vantagens: A principal vantagem é que o inventário do material em processo é mínimo, poucas
+instruções de trabalho são necessárias e menos espaço de armazenamento é necessário.
+Desvantagens: O sistema de produção contínua é muito rígido e, se houver uma falha em uma
+operação, todo o processo é afetado, manutenção rígida das máquinas.
+
+Questão 08
+
+Bicicleta: Tipo = ciclo
+numero-rodas =2
+Tem motor = não
+Numero de portas = não
+Então veiculo = Bicicleta.
+
+Motocicleta: Tipo = ciclo
+numero-rodas =2
+Tem motor =sim
+Numero de portas = não
+Então veiculo = Motocicleta.
+
+Sedan: Tipo = automóvel
+numero-rodas =4
+Tem motor = sim
+Numero de portas =2 ou 4
+Então veiculo =Sedan.
+
+Caminhonete: Tipo = automovel
+numero-rodas =4
+Tem motor = sim
+Numero de portas =2 ou 4
+Então veiculo =Caminhonete.
