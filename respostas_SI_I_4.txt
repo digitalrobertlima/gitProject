@@ -4,4 +4,11 @@ Questão 01
 
 Um especialista é aquele que se dedica exclusivamente ao estudo ou à prática de uma ciência, uma arte, uma profissão.
 
+Questão 02
+
+Sistema especialista é uma classe de programa de computador desenvolvido por pesquisadores de Inteligência artificial durante os anos 1970 e aplicado comercialmente durante anos 1980.
+São constituídos por uma série de regras que analisam informações sobre uma classe específica de problema.
+
+Questão 03
+
 
