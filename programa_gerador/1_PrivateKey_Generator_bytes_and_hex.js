@@ -1,8 +1,7 @@
+var CryptoJS = require('cryptojs').Crypto
 var nomePrograma = '\n Seja muito bem-vindo usuário. Este programa te ajudará na geração de chaves privadas de 32 bytes.\n\n >>> PROGRAMA - DK <<<\n\n >>> GERADOR DE CHAVES PRIVADAS <<<\n >>> EM BYTES E HEXADECIMAL <<<'
 
 console.log(nomePrograma)
-
-var CryptoJS = require('cryptojs').Crypto
 
 var chavePrivada = CryptoJS.util.randomBytes(32)
 
